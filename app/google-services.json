@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430516542000",
+    "project_id": "winnie-lastlong-jing-jing",
+    "storage_bucket": "winnie-lastlong-jing-jing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430516542000:android:bf6ae10f089b56ccae6bf5",
+        "android_client_info": {
+          "package_name": "com.example.lastlong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430516542000-g0n3badja2r2aqal5e753b3hueqa7m9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3l9ROuecsM4SHfzcpk9JQlhNBXlwQFvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430516542000-g0n3badja2r2aqal5e753b3hueqa7m9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
